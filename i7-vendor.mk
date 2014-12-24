@@ -12,4 +12,4 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-$(call inherit-product, vendor/google/i7/i7-vendor-blobs.mk)
+$(call inherit-product, vendor/QMobile/i7/i7-vendor-blobs.mk)
